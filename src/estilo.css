@@ -1,0 +1,16 @@
+body{
+  margin-top: 25px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+img{
+  max-width: 100%;
+  margin-bottom: 1em;
+  border-radius: 50px;
+}
+.galeria{
+  columns:3 120px;
+  column-gap:1em;
+}
+
+ 
